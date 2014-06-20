@@ -33,7 +33,7 @@ public class AccelerometerActivity extends Activity {
 		sensorManager = (SensorManager) getSystemService(Context.SENSOR_SERVICE);
 		sensor = sensorManager.getDefaultSensor(Sensor.TYPE_ACCELEROMETER);
 	}
-
+//≤‚ ‘github3
 	@Override
 	protected void onResume() {
 		super.onResume();
