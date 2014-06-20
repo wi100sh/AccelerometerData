@@ -46,7 +46,7 @@ public class AccelerometerActivity extends Activity {
 		super.onStop();
 		sensorManager.unregisterListener(listener);
 	}
-
+//≤‚ ‘github
 	private SensorEventListener listener = new SensorEventListener() {
 
 		public void onSensorChanged(SensorEvent e) {
