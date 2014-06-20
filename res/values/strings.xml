@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">AccelerometerData</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="AcceleX">X方向上加速度：</string>
+    <string name="AcceleY">Y方向上加速度：</string>
+    <string name="AcceleZ">Z方向上加速度：</string>
+</resources>
