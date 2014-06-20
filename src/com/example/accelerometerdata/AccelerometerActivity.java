@@ -40,7 +40,7 @@ public class AccelerometerActivity extends Activity {
 		sensorManager.registerListener(listener, sensor,
 				SensorManager.SENSOR_DELAY_NORMAL);
 	}
-
+//≤‚ ‘github2
 	@Override
 	protected void onStop() {
 		super.onStop();
